@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "src": "/assets/Img_Carousel/First_Img.png",
+    "title": "PHOTOGRAPHY",
+    "subtitle": "PIXELINK",
+    "button": "PORTFOLIO"
+  },
+  {
+    "id": 2,
+    "src": "/assets/Img_Carousel/Second_Img.png",
+    "title": "PHOTOGRAPHY",
+    "subtitle": "PIXELINK",
+    "button": "PORTFOLIO"
+  },
+  {
+    "id": 3,
+    "src": "/assets/Img_Carousel/Third_Img.png",
+    "title": "PHOTOGRAPHY",
+    "subtitle": "PIXELINK",
+    "button": "PORTFOLIO"
+  },
+  {
+    "id": 4,
+    "src": "/assets/Img_Carousel/Forth_Img.png",
+    "title": "PHOTOGRAPHY",
+    "subtitle": "PIXELINK",
+    "button": "PORTFOLIO"
+  },
+  {
+    "id": 5,
+    "src": "/assets/Img_Carousel/Fith_Img.png",
+    "title": "PHOTOGRAPHY",
+    "subtitle": "PIXELINK",
+    "button": "PORTFOLIO"
+  },
+  {
+    "id": 6,
+    "src": "/assets/Img_Carousel/Last_Img.png",
+    "title": "PHOTOGRAPHY",
+    "subtitle": "PIXELINK",
+    "button": "PORTFOLIO"
+  }
+]
