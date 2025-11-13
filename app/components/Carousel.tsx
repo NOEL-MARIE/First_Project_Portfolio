@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 import Image from "next/image";
-import imagesData from "@/app/data/images.json";
+import imagesData from "../data/Images.json";
 import Link from "next/link";
 
 export default function Carousel() {
